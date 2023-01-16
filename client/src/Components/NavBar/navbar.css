@@ -1,0 +1,14 @@
+.data{
+    display: flex;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    padding-top: 2rem;
+}
+.text{
+    font-size: 2rem;
+    font-weight: 800;
+    
+
+}
